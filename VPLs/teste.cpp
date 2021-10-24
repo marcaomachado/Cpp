@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-
+// Atividade semana 2 de PDS2
+// Editando mais uma vez
 int main(){
     // int vet[2] = {9, 0};
 
@@ -8,7 +9,7 @@ int main(){
     // cout << &vet << endl;
     // cout << &vet[0] << endl;
     // cout << vet[0] << endl;
-
+	
 
     // 1) Declare uma variável do tipo inteiro e atribua o valor '10'
     int var = 10;
