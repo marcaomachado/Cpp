@@ -1,1 +1,1 @@
-Vou tentar deixar disponível todas as atividades realizas para o curso de PDS2.
+Repositório de todas as atividades que desenvolvi no curso de PDS2
