@@ -7,7 +7,6 @@ struct Ponto2D
     Ponto2D();
     Ponto2D(double x, double y);
     double calcular_distancia(Ponto2D* ponto);
-
 };
 
 #endif
