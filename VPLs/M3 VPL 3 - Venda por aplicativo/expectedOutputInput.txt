@@ -1,0 +1,12 @@
+Pedido 1
+2X Pizza Calabresa, 4 pedacos e borda recheada.
+1X Pizza Frango com catupity, 6 pedacos e sem borda recheada.
+2X Hamburguer X-tudo artesanal.
+Endereco: Av. Pres. Antonio Carlos, 6627 - Pampulha, Belo Horizonte - MG
+Pedido 2
+4X Hamburguer X-salada simples.
+1X Comida japonesa - Combo 1, 4 sushis, 5 temakis e 6 hots.
+Endereco: Rua Reitor Pires Albuquerque, ICEx - Pampulha, Belo Horizonte - MG
+Relatorio de Vendas
+Total de vendas: R$ 315.90
+Total de pedidos: 2
