@@ -1,5 +1,0 @@
-4
-sistemas.ufmg.br: aluno and esta_senha_e_forte
-www.facebook.com: usuario_divertido and ultra_senha_dificil
-www.linkedin.com: usuario_trabalhador and senha_senha_12345_senha_senha
-www.youtube.com: criador_de_conteudo and ninguem_descobre_esta_senha
