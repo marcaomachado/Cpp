@@ -76,3 +76,8 @@ bool operator>(Estoque& lhs, Estoque& rhs) {
   }
   return true;
 }
+
+
+auto getEstoque(){
+  return estoque;
+}

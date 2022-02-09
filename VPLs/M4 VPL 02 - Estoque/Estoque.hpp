@@ -148,6 +148,7 @@ class Estoque {
    */
   friend bool operator>(Estoque& e0, Estoque& e1);
 
+
  public:
   std::map<std::string, unsigned int> estoque;
 };
